@@ -3,8 +3,6 @@ This is a project hoping to measure brain activity with a DIY EEG device that cu
 
 TODO:
  - Data collection from batch script to csv file
- - high-pass filter above .1-.5 hz
- - low-pass filter below 50 hz
 
 INFO:
 - Delta waves:
